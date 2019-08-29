@@ -1,0 +1,11 @@
+{
+  "normalStoreUrl": "https://skeleton.church",
+  "accessToken": "",
+  "port": 3000,
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  }
+}
